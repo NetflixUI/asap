@@ -1,7 +1,7 @@
 {
-  "name": "asap",
+  "name": "falcor-asap",
   "version": "2.0.6",
-  "description": "High-priority task queue for Node.js and browsers",
+  "description": "Falcor fork of asap - High-priority task queue for Node.js and browsers",
   "keywords": [
     "event",
     "task",
